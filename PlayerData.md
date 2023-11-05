@@ -16,8 +16,8 @@
 |Single|Gravity|Gravity affecting the player.|
 |Boolean|AirControl|When AirControl is enabled, then the player can control the direction of flight.|
 |Boolean|MoveInertia|When inertia is enabled, the player starts and ends the movement smoothly.|
-|Single|Deceleration|The speed at which the player stops.|
-|Single|Acceleration|The speed at which the player starts moving.|
+|Single|Deceleration|The speed at which the player stops. (Work with MoveInertia)|
+|Single|Acceleration|The speed at which the player starts moving. (Work with MoveInertia)|
 ##### Run
 ||||
 |---|---|---|
