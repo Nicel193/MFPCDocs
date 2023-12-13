@@ -15,8 +15,8 @@
 ### Properties
 |type|name|docs|
 |---|---|---|
-|Boolean|DebugMode|Enables display of current input|
-|Boolean|AutoInputSwitch|Automatic input switching (From keyboard to gamepad and vice versa)|
+|Boolean|DebugMode|Enables display of current input (Only in New Input)|
+|Boolean|AutoInputSwitch|Automatic input switching (From keyboard to gamepad and vice versa) (Only in New Input)|
 
 ---
 ### Methods
